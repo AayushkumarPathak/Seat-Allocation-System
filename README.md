@@ -9,3 +9,6 @@ framework feature is used to maintain the allocation.
 the compareTo method to compare the rank of student.
 • The concept of DSA which is used is the major part in such a way that, main function has Priority Queue of type
 integers i.e low value high priority
+
+
+![seat allocation](https://github.com/user-attachments/assets/c28454c6-32bf-4a8a-a7b3-b47758316702)
